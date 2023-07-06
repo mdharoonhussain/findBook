@@ -1,0 +1,21 @@
+{
+    "books": [
+    {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "genre": "Fiction",
+      "description": "Description of Book 1",
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Book 2",
+      "author": "Author 2",
+      "genre": "Science",
+      "description": "Description of Book 2",
+      "price": 150
+    }
+  ]
+}
+  
